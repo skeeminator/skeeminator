@@ -8,8 +8,6 @@
 ![Focus](https://img.shields.io/badge/Focus-Offensive%20Security-0A0A0A?style=for-the-badge)
 ![Role](https://img.shields.io/badge/Role-Malware%20Dev%20%2F%20Red%20Team-8B0000?style=for-the-badge)
 ![Vibe Coded](https://img.shields.io/badge/Vibe%20Coded-AI%20Assisted-FF8C00?style=for-the-badge)
-![Self Taught](https://img.shields.io/badge/Self--Taught-Since%202022-2E8B57?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Sinnoh-6A5ACD?style=for-the-badge)
 
 </div>
 
