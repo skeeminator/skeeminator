@@ -3,7 +3,7 @@
 # skeem
 
 **Self-taught maldev — a bit of red team on the side, all of it with a lil AI-assistnce.**
-*aka skeeminator · SkeemLabs · founder of [@Skeem-Team](https://github.com/Skeem-Team)*
+*aka skeeminator · SkeemLabs · founder of [@Skeem Labs](https://github.com/Skeem-Labs)*
 
 ![Focus](https://img.shields.io/badge/Focus-Offensive%20Security-0A0A0A?style=for-the-badge)
 ![Role](https://img.shields.io/badge/Role-Malware%20Dev%20%2F%20Red%20Team-8B0000?style=for-the-badge)
